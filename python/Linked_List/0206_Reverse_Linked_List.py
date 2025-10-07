@@ -1,7 +1,7 @@
 """
 Link: https://leetcode.com/problems/reverse-linked-list/
 
-Solution1: Three pointers.
+Solution1: Two pointers.
     Time Complexity: O(n).
     Space Complexity: O(1).
 
