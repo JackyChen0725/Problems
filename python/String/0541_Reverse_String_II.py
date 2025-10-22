@@ -7,7 +7,7 @@ Solution1: Use two pointers to reverse every 2k characters in the string. Be awa
 
 Solution2: Similar to Solution1 but use a helper function and list slicing method.
     Time Complexity: O(n).
-    Space Complexity: O(n).
+    Space Complexity: O(n). (Auxiliary space for the temporary list)
 """
 
 from typing import List
